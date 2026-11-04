@@ -47,3 +47,9 @@ next-env.d.ts
 *.sw?
 .DS_Store
 Thumbs.db
+
+# Submission artifacts
+Project-1A_Stock_Screener_Submission.zip
+Project-1A_Stock_Screener_Submission_Report.pdf
+generate_pdf_report.py
+*.zip

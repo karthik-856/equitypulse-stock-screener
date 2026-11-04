@@ -11,6 +11,27 @@
 
 ---
 
+## 📸 Screenshots & Application Gallery
+
+| Screener Dashboard & 5,000 Stock Virtual Grid | Filter Presets & Selectivity AST Engine |
+| :---: | :---: |
+| ![Screener Dashboard](screenshots/01-screener-dashboard.png) | ![Filter Presets Active](screenshots/02-filter-presets-active.png) |
+
+| Candlestick Chart & 5 Custom Indicators | Sector Performance Heatmap |
+| :---: | :---: |
+| ![Candlestick Chart](screenshots/03-candlestick-chart-indicators.png) | ![Sector Heatmap](screenshots/04-sector-heatmap.png) |
+
+| Bloomberg Terminal Command Palette (Ctrl+K) | Keyboard Navigation Cheat Sheet (?) |
+| :---: | :---: |
+| ![Command Palette](screenshots/05-command-palette.png) | ![Keyboard Shortcuts Modal](screenshots/06-keyboard-shortcuts-modal.png) |
+
+### 📋 Zetheta WorkBridge Submission Records
+| Project 1A Assignment Details | Portal Submission Interface |
+| :---: | :---: |
+| ![Project Assignment](screenshots/portal-project-assignment.png) | ![Portal Submission](screenshots/portal-submission-form.png) |
+
+---
+
 ## 🚀 Key Highlights & Architectural Feats
 
 1. **5,000+ Stock Universe with Real Indian Market Distribution**:
